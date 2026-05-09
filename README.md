@@ -61,12 +61,25 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=alexrexby&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexrexby&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alexrexby&theme=tokyonight"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alexrexby&theme=tokyonight&hide_border=true"/>
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=alexrexby&theme=tokyonight"/>
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=alexrexby&theme=tokyonight"/>
+</p>
+
+<p align="center">
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=alexrexby&theme=tokyonight"/>
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=alexrexby&theme=tokyonight&utcOffset=3"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=alexrexby&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=alexrexby&theme=tokyonight&no-frame=true&column=7&margin-w=10"/>
 </p>
 
 ---
