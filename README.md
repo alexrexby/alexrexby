@@ -38,12 +38,12 @@
 |---|---|
 | **launchi** | Product‑launch infrastructure for solo founders — landing, payments, analytics in one stack |
 | **KRASAVACLAW** | Multi‑agent automation platform — autonomous Go agents for research, content, ops |
-| **BustaVoice** | Voice ML tooling — clone, dub, automate audio pipelines |
-| **tg‑notebooklm** | NotebookLM‑style summaries from Telegram channels |
-| **unikbot** | Content uniqueness & rewriting bot |
-| **n8n‑nodes‑max** | Custom n8n nodes for Russian SaaS integrations |
-| **course‑mcp** | MCP server for course‑authoring workflows |
-| **insta** | Instagram automation toolkit |
+| **BustaVoice** | Telegram bot that turns audio and video into text, with subscriptions |
+| **tg‑notebooklm** | Exports Telegram chats to Markdown for NotebookLM, plus video download and Whisper transcription |
+| **unikbot** | Telegram bot that processes videos for Instagram with ffmpeg, with a Mini App and subscriptions |
+| **n8n‑nodes‑max** | n8n community node for the MAX messenger API |
+| **course‑mcp** | MCP server that gives students' AI agents a course's tools, prompts and materials |
+| **insta** | Chrome extension that collects Instagram Reels captions and on‑screen text, with JSON/CSV/Markdown export |
 
 > All flagship products are currently closed‑source. Reach out for collaboration.
 
@@ -51,9 +51,9 @@
 
 ### 🌐 Open source
 
-- [**krasavacode**](https://github.com/alexrexby/krasavacode) — code workbench for Claude Code workflows
-- [**api-threads-carousel**](https://github.com/alexrexby/api-threads-carousel) — Meta Threads API helpers (Python)
-- [**broadcast**](https://github.com/alexrexby/broadcast) — broadcast utilities (Python)
+- [**krasavacode**](https://github.com/alexrexby/krasavacode) — free vibe‑coding CLI for students
+- [**api-threads-carousel**](https://github.com/alexrexby/api-threads-carousel) — REST API that generates social media carousels (Python)
+- [**broadcast**](https://github.com/alexrexby/broadcast) — Telegram bot for daily and manual broadcasts to channel subscribers (Python)
 - [**cyberpunk-telegram-app**](https://github.com/alexrexby/cyberpunk-telegram-app) — Telegram Mini App template
 
 ---
